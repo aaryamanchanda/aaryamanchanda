@@ -63,6 +63,8 @@ Currently exploring deeper layers of development while building consistently.
 
 <img src="https://streak-stats.demolab.com?user=aaryamanchanda&theme=tokyonight&hide_border=true" width="48%"/>
 
+![Pacman](https://raw.githubusercontent.com/aaryamanchanda/pacman-contribution/output/pacman.svg)
+
 </div>
 
 ---
