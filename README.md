@@ -61,8 +61,6 @@ Currently exploring deeper layers of development while building consistently.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaryamanchanda&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
 <img src="https://streak-stats.demolab.com?user=aaryamanchanda&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
