@@ -1,93 +1,102 @@
-# ██████╗  █████╗  █████╗ ██████╗ ██╗   ██╗ █████╗
+<div align="center">
 
-# ██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗
+<img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
 
-# ██████╔╝███████║███████║██████╔╝ ╚████╔╝ ███████║
+# **AARYA MANCHANDA**
 
-# ██╔═══╝ ██╔══██║██╔══██║██╔═══╝   ╚██╔╝  ██╔══██║
+### <span style="color:#00ff88;">Open Source • Web Dev • AI Tools • Builder</span>
 
-# ██║     ██║  ██║██║  ██║██║        ██║   ██║  ██║
+<img src="https://komarev.com/ghpvc/?username=aaryamanchanda&color=00ff88&style=flat-square"/>
 
-# ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   ╚═╝  ╚═╝
-
-<h1 align="center">AARYA MANCHANDA</h1>
-<h3 align="center">🚀 Builder | 💻 C Programmer | ⚡ Future Systems Engineer</h3>
+</div>
 
 ---
 
-## 🧠 WHO AM I
+<div align="center">
 
-* 18 y/o developer on a mission
-* Learning **C + DSA from scratch → mastery**
-* Building **projects, not just watching tutorials**
-* Focused on **discipline, systems, execution**
+### 🧠 About Me
 
-> "I don’t chase motivation. I build systems."
+A developer focused on building **real skills and real systems**.
+I work across **web development and AI tools**, with a strong focus on execution.
 
----
+Currently exploring deeper layers of development while building consistently.
 
-## ⚒️ TECH STACK
+**Versatility is my strength. Execution is my edge.**
 
-### 💻 CORE
-
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
-
-### 🌐 WEB (BUILDING SIDE HUSTLES)
-
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge)
-
-### 🧠 LEARNING NEXT
-
-![Data Structures](https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=for-the-badge)
+</div>
 
 ---
 
-## 📊 GITHUB STATS
+## ⚙️ Skills & Technologies
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aaryamanchanda\&show_icons=true\&theme=dark\&hide_border=true)
+### 💻 Languages
 
-![Streak](https://streak-stats.demolab.com?user=aaryamanchanda\&theme=dark\&hide_border=true)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge)
 
----
+### 🌐 Web & Frontend
 
-## 🧱 CURRENT BUILD MODE
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge)
 
-* 🏗 Learning C deeply (memory, pointers, low-level thinking)
-* 🧠 Practicing DSA daily
-* 💸 Building online income streams (PixelPlay 👀)
-* 🏋️ Gym + discipline lifestyle
+### 🧠 AI & Tools
 
----
+![Claude](https://img.shields.io/badge/Claude-1a1a1a?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-1a1a1a?style=for-the-badge)
+![Stitch](https://img.shields.io/badge/Stitch-1a1a1a?style=for-the-badge)
 
-## 🚀 PROJECTS
+### 🛠 Dev Tools
 
-* 🔥 Coming soon → Real projects > fake portfolio
-* ⚡ Focus: Utility tools + real-world problem solving
-
----
-
-## 🌐 CONNECT
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](#)
-
----
-
-## ⚡ PHILOSOPHY
-
-```
-CONSISTENCY > MOTIVATION
-SYSTEMS > GOALS
-EXECUTION > IDEAS
-```
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-1a1a1a?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-1a1a1a?style=for-the-badge)
 
 ---
 
-## 🧨 FINAL NOTE
+## 📊 GitHub Stats
 
-I’m not here to “learn coding”.
+<div align="center">
 
-I’m here to become **dangerously good at it**.
+<img src="https://github-readme-stats.vercel.app/api?username=aaryamanchanda&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=aaryamanchanda&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryamanchanda&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🚀 Current Focus
+
+* ⚡ Building real-world web projects
+* 🧠 Leveraging AI tools for productivity
+* 💻 Strengthening full-stack development
+* 📈 Growing consistently as a developer
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge)](https://linkedin.com/in/aaryamanchanda7/)
+[![Email](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge)](mailto:manchandaaarya@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Execution > Everything”
+
+</div>
